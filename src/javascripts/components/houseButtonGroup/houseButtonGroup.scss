@@ -1,0 +1,9 @@
+@import '../../../styles/colors';
+@import '../../../styles/variables';
+
+.house-button-group {
+  margin-top: 70px;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}

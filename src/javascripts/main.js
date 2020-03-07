@@ -1,7 +1,8 @@
+import navbar from './components/navbar/navbar';
 import '../styles/main.scss';
 
 const init = () => {
-  console.error('here');
+  navbar.loadNavbar();
 };
 
 init();
